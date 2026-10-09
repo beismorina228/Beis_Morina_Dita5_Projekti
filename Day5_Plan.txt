@@ -1,0 +1,19 @@
+1) Problemi:
+Nxënësit dhe stafi i BGT-së kanë nevojë për një mënyrë të shpejtë dhe të organizuar për të raportuar dhe ndjekur incidente të IT-së dhe sigurisë kibernetike në shkollë.
+
+2) Përdoruesit:
+Nxënësit dhe stafi i BGT-së.
+
+3) Ekranet:
+Login · Security Dashboard · My Reports · Incident Details · Profile
+
+4) Tabela:
+incidents
+Kolonat:
+id, user_id, author, title, description, category, location, severity, status, created_at
+
+5) Rrjedha:
+Kyçu → shiko incidentet live → filtro incidentet → raporto incident → hap detajet → pronari e shënon si resolved ose e fshin → Profile / Logout
+
+6) MVP:
+Login, lista live, raportimi i incidentit, filtrat, detajet, Resolve, Delete, My Reports, Profile dhe Dark Mode.
